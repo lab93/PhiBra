@@ -4,10 +4,7 @@
 
 Repository for the TAPS Hackathon for the team **PHIBRA**
 
-## Team: PHIBRA
-
 ---
-
 ## Running Instructions
 
 1. **Install Python and Spyder**  
@@ -24,7 +21,6 @@ Repository for the TAPS Hackathon for the team **PHIBRA**
    pip install -r plotly
    pip install -r flask
    pip install -r dash-daq
-
 ---
 ## Running Instructions
 
@@ -35,16 +31,18 @@ Repository for the TAPS Hackathon for the team **PHIBRA**
 5. If you would like to see the image8, on HOME page, set up directory (image is aesteatic and ca be view on data folder named as image8.jpg;
 
 6. Click on the "Run App" button or press ctrl+enter;
-
 ---
-## Navegation on PHIBRA MAX WATER app
+## Navigation on PHIBRA MAX WATER App
 
-1. **HOME** page: initial page with Title, Introduction, image8.jpg, and copywrite.
-2. **CERES.AI** page: Integration of Ceres for accessing field images
-3. **AGRICULTURAL DECISION SUPPORT** page: Calculates indeces and offers recommendations directly supporting data-driven management decisions in areas like irrigations, disease prevention and environmental stress menagement.
-4. **WATER USE EFFICIENCY** page: Simulates water use efficience and have the capability to forecast weather and recommends water application throuhgout the season based on soil moisture. This section ca be uploaded with real data from real time as per simulated.
-5. **IRRIGATION COST AND ANALYSIS** page: Calculates cost per field IDs and per hybrid. It have the ability to import datasets form different years, as long as with the same colnames.
-6. **ABOUT** page: It gives a discription of the mission of the app and information about the authors.
+**Follow the green tabs on top of the app**
+
+1. **HOME** page: The initial page with the title, introduction, image8.jpg, and copyright information.
+2. **CERES.AI** page: Integration of Ceres for accessing field images.
+3. **AGRICULTURAL DECISION SUPPORT** page: Calculates indices and offers recommendations to support data-driven management decisions in areas such as irrigation, disease prevention, and environmental stress management.
+4. **WATER USE EFFICIENCY** page: Simulates water use efficiency and has the capability to forecast weather, recommending water applications throughout the season based on soil moisture. This section can be updated with real-time data as needed.
+5. **IRRIGATION COST AND ANALYSIS** page: Calculates costs per field ID and hybrid, with the ability to import datasets from different years as long as they share the same column names.
+6. **ABOUT** page: Provides a description of the app's mission and information about the authors.
+
 ---
 ## Presentation slides
 The slides are in the slide folder.
