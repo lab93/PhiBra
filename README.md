@@ -22,15 +22,14 @@ Repository for the TAPS Hackathon for the team **PHIBRA**
    pip install -r flask
    pip install -r dash-daq
 ---
-## Running Instructions
+3. Download the data folder and code, and place them on the Desktop.
 
-3. Download data folder and code and place on Desktop;
+4. Place the code in the tab bar named Display or open the file code.py.
 
-4. Place the code in the tab bar name display or open file code.py;
+5. If you would like to see image8.jpg on the HOME page, set up the directory (the image is aesthetic and can be viewed in the data folder under the name image8.jpg).
 
-5. If you would like to see the image8, on HOME page, set up directory (image is aesteatic and ca be view on data folder named as image8.jpg;
+6. Click the "Run" button or press Ctrl+Enter.
 
-6. Click on the "Run App" button or press ctrl+enter;
 ---
 ## Navigation on PHIBRA MAX WATER App
 
