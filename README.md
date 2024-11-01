@@ -17,13 +17,13 @@ Repository for the TAPS Hackathon for the team **PHIBRA**
    Install the necessary Python libraries by running the following command in your terminal:
    ```bash
    pip install -r dash
-dash-bootstrap-components
-requests
-pandas
-numpy
-plotly
-flask
-dash-daq
+   pip install -r dash-bootstrap-components
+   pip install -r requests
+   pip install -r pandas
+   pip install -r   numpy
+   pip install -rplotly
+   pip install -r flask
+   pip install -r dash-daq
 
 ---
 3. Download data folder and code and place on Desktop;
