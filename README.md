@@ -38,7 +38,7 @@ Repository for the TAPS Hackathon for the team **PHIBRA**
 1. **HOME** page: The initial page with the title, introduction, image8.jpg, and copyright information.
 2. **CERES.AI** page: Integration of Ceres for accessing field images.
 3. **AGRICULTURAL DECISION SUPPORT** page: Calculates indices and offers recommendations to support data-driven management decisions in areas such as irrigation, disease prevention, and environmental stress management.
-4. **WATER USE EFFICIENCY** page: Simulates water use efficiency and has the capability to forecast weather, recommending water applications throughout the season based on soil moisture. This section can be updated with real-time data as needed.
+4. **WATER USE EFFICIENCY** page: Simulates water use efficiency and has the capability to forecast weather, recommending water applications throughout the season based on soil moisture. This section can be updated with real-time data as needed (Wait a few seconds to load simulated data, browser will show as "updating...").
 5. **IRRIGATION COST AND ANALYSIS** page: Calculates costs per field ID and hybrid, with the ability to import datasets from different years as long as they share the same column names.
 6. **ABOUT** page: Provides a description of the app's mission and information about the authors.
 
