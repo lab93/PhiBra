@@ -24,7 +24,7 @@ Repository for the TAPS Hackathon for the team **PHIBRA**
 ---
 3. Download the data folder and code, and place them on the Desktop.
 
-4. Place the code in the tab bar named Display or open the file code.py.
+4. Place the code in the tab bar named Display or open the file PHIBRA_WATER_MAX.py.
 
 5. If you would like to see image8.jpg on the HOME page, set up the directory (the image is aesthetic and can be viewed in the data folder under the name image8.jpg).
 
