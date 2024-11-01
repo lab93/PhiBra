@@ -1,16 +1,38 @@
-TAPS-Hackathon-2024
 
 
-Repository for the TAPS Hackathon for the team PHIBRA
+# TAPS-Hackathon-2024
 
-Team: PHIBRA
+Repository for the TAPS Hackathon for the team **PHIBRA**
 
-Running Instructions
-Install phython and spyder;
-Download data folder and code and place on Desktop;
-Place the code in the tab bar name display  or open file code.py;
-If you would like to see the image on HOME page, set up directory;
-Click on the "Run App" button or press ctrl+enter;
+## Team: PHIBRA
+
+---
+
+## Running Instructions
+
+1. **Install Python and Spyder**  
+   Ensure you have Python installed on your system. We recommend using [Spyder](https://www.spyder-ide.org/) as the IDE for running the code.
+
+2. **Install Required Libraries**  
+   Install the necessary Python libraries by running the following command in your terminal:
+   ```bash
+   pip install -r dash
+dash-bootstrap-components
+requests
+pandas
+numpy
+plotly
+flask
+dash-daq
+
+---
+3. Download data folder and code and place on Desktop;
+
+4. Place the code in the tab bar name display  or open file code.py;
+
+5. If you would like to see the image on HOME page, set up directory;
+
+6. Click on the "Run App" button or press ctrl+enter;
 
 Presentation slides
 The slides are in the slides folder.
